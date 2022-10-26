@@ -1,0 +1,28 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "ooples",
+      "name": "Franklin Moormann",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3075685?v=4",
+      "profile": "https://github.com/ooples/OoplesFinance.StockIndicators",
+      "contributions": [
+        "code",
+        "example",
+        "question",
+        "bug"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "Alpaca.Markets",
+  "projectOwner": "OlegRa"
+}
