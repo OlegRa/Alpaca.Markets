@@ -1,4 +1,7 @@
 [![Build](https://github.com/alpacahq/alpaca-trade-api-csharp/workflows/Build%20and%20Release/badge.svg?branch=master)](https://github.com/alpacahq/alpaca-trade-api-csharp/actions)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![Codacy](https://img.shields.io/codacy/grade/7659cd4379964ef190a1088aa879350a?logo=codacy)](https://www.codacy.com/gh/OlegRa/Alpaca.Markets/dashboard?utm_source=github.com)
 [![Coverage](https://app.codacy.com/project/badge/Coverage/7659cd4379964ef190a1088aa879350a)](https://www.codacy.com/gh/OlegRa/Alpaca.Markets/dashboard?utm_source=github.com)
 [![Nuget](https://img.shields.io/nuget/dt/Alpaca.Markets?logo=NuGet)](https://www.nuget.org/stats/packages/Alpaca.Markets?groupby=Version)
@@ -69,3 +72,25 @@ Use the `Environments.Paper.GetAlpacaDataStreamingClient(...)` factory method fo
 1.  Install the latest version of the [.NET 6.0 SDK](https://dotnet.microsoft.com/download) for your OS.
 2.  Clone the local version of this repository or your own fork (if you want to make changes).
 3.  Build the packages using the `dotnet build` command running in the root directory of the cloned repo.
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/OlegRa"><img src="https://avatars.githubusercontent.com/u/4800940?v=4?s=100" width="100px;" alt="Oleg Rakhmatulin"/><br /><sub><b>Oleg Rakhmatulin</b></sub></a><br /><a href="https://github.com/OlegRa/Alpaca.Markets/commits?author=OlegRa" title="Code">💻</a> <a href="https://github.com/OlegRa/Alpaca.Markets/commits?author=OlegRa" title="Documentation">📖</a> <a href="#ideas-OlegRa" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-OlegRa" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-OlegRa" title="Maintenance">🚧</a> <a href="#platform-OlegRa" title="Packaging/porting to new platform">📦</a> <a href="#question-OlegRa" title="Answering Questions">💬</a> <a href="https://github.com/OlegRa/Alpaca.Markets/pulls?q=is%3Apr+reviewed-by%3AOlegRa" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/OlegRa/Alpaca.Markets/commits?author=OlegRa" title="Tests">⚠️</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
