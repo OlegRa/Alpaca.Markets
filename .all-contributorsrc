@@ -801,6 +801,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "Kinzowa",
+      "name": "Kinzowa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16160143?v=4",
+      "profile": "https://github.com/Kinzowa",
+      "contributions": [
+        "question"
+      ]
     }
   ],
   "contributorsPerLine": 7,
