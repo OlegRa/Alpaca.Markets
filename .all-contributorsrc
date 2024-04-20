@@ -910,6 +910,15 @@
       ]
     },
     {
+      "login": "bobrot",
+      "name": "bobrot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1851767?v=4",
+      "profile": "http://thedevprocess.com",
+      "contributions": [
+        "question"
+      ]
+    },
+    {
       "login": "Chacoon3",
       "name": "Chaconn3",
       "avatar_url": "https://avatars.githubusercontent.com/u/92221220?v=4",
@@ -917,7 +926,6 @@
       "contributions": [
         "question",
         "bug"
-      ]
     }
   ],
   "contributorsPerLine": 7,
